@@ -1,6 +1,9 @@
 # Posterz_Full_stack_WebApp
 This is a full stack poster selling webapp developed using React(Frontend) , Strapi(Backend) , Stripe(Payment Gateway) , SCSS(Designing)
 
+![Animated GIF](https://github.com/niranjan-2024/Posterz_Full_stack_WebApp/blob/897e039bbec51e45cc4e8b1d3a2b3e419128b8f3/ezgif.com-video-to-gif.gif)
+
+
 # Posterz - Full Stack Poster Selling App
 
 Posterz is a full stack application built with React, Strapi, SCSS, Redux, and Stripe payment gateway. The app allows users to browse and purchase posters. Below is an overview of the key features and technologies used in the development:
